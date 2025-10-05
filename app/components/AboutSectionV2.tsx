@@ -1,4 +1,4 @@
-import Image from "next/image"
+// import Image from "next/image"
 import clsx from "clsx"
 import profilePhoto from "../images/profile.webp"
  import { Text, Typography } from "../ui/Elements"
