@@ -33,7 +33,7 @@ export type ProjectData = {
   }
   results?: AnalyticCardProps[]
   phases: Phase[]
-  review?: ReviewProps
+   
   slug: string
 }
 
