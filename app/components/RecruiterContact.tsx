@@ -25,7 +25,7 @@ export const RecruiterContact: React.FC = () => {
             </div>
             <div className="flex flex-col items-start text-sm whitespace-nowrap text-slate-700">
               <h2 className="font-medium text-slate-900">Dharanish</h2>
-              <p className="text-slate-500">Full-Stack - Frontend Focused</p>
+              <p className="text-slate-500">Full-Stack Engineer</p>
             </div>
           </div>
 {/* 
@@ -47,7 +47,7 @@ export const RecruiterContact: React.FC = () => {
     <span>
       Working on Something Exciting? <br />
     </span>
-    <span className="text-slate-500">Let's connect.</span>
+    <span className="text-slate-500">{`Let's connect.`}</span>
   </H3>
   <Text className="max-w-2xl text-center text-balance">
     I create fast, accessible web applications using React, Next.JS, and Node JS. I’m eager to collaborate with teams that prioritize quality, performance, and a seamless user experience.
