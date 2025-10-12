@@ -41,10 +41,9 @@ export const TopBarV2: React.FC = () => {
                   Contact
                 </Link>
               </li>
-                     <Link href="/" className="flex items-center gap-2 font-medium text-nowrap">
-              
-              Resume
-            </Link>
+                     <Link href="https://drive.google.com/uc?export=download&id=1oRUyGOzlvZQahGPOdlkQFm4DIrJHu-tA" className="flex items-center gap-2 font-medium text-nowrap">
+                Resume
+              </Link>
             </ul>
 
             {/* Mobile Dots Menu */}
